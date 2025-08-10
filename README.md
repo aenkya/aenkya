@@ -1,21 +1,21 @@
 <h1 align="center">Hi 👋, I'm Bruce</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aenkya&label=Profile%20views&color=0e75b6&style=flat" alt="aenkya" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aenkya" alt="aenkya" /></a> </p>
 
 - 🔭 I’m currently working on [scrapulous](https://github.com/aenkya/scrapulous)
 
 - 🌱 I’m currently learning **CS50 AI**
 
-- 📝 I regularly write articles on [https://enkya.org/](https://enkya.org/)
+- 📝 I sometimes write articles on [https://enkya.org/](https://enkya.org/)
 
-- 💬 Ask me about **Systems architecture, event-driven systems, AI algorithms**
+- 💬 Ask me about **Systems architecture, event-driven systems, AI & Algorithms**
 
 - 📫 How to reach me **info@enkya.org**
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/e/2PACX-1vTRfoGHNrF3jonSj6wgQhv2cnj_QEQ-iAnjwFypWAvMc52cLGilZ89UwQH62zhkwLqxH7V8zTlEjfTf/pub](https://docs.google.com/document/d/e/2PACX-1vTRfoGHNrF3jonSj6wgQhv2cnj_QEQ-iAnjwFypWAvMc52cLGilZ89UwQH62zhkwLqxH7V8zTlEjfTf/pub)
 
-### Blogs posts
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aenkya" alt="aenkya" /></a> </p>
+
+<!-- ### Blogs posts -->
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
@@ -25,7 +25,6 @@
 <a href="https://dev.to/aenkya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="aenkya" height="30" width="40" /></a>
 <a href="https://twitter.com/aenkya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aenkya" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/enkya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="enkya" height="30" width="40" /></a>
-<a href="https://instagram.com/aenkya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aenkya" height="30" width="40" /></a>
 <a href="https://medium.com/@aenkya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@aenkya" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/aenkya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aenkya" height="30" width="40" /></a>
 </p>
@@ -36,6 +35,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aenkya&show_icons=true&locale=en&layout=compact" alt="aenkya" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aenkya&show_icons=true&locale=en" alt="aenkya" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aenkya&" alt="aenkya" /></p>
 

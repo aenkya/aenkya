@@ -6,7 +6,3 @@
 - 💬 Ask me about **Systems architecture, event-driven systems, AI & Algorithms**
 - 📫 How to reach me **info@enkya.org**
 - 📄 Know about my experiences: [Resume](https://docs.google.com/document/d/e/2PACX-1vTRfoGHNrF3jonSj6wgQhv2cnj_QEQ-iAnjwFypWAvMc52cLGilZ89UwQH62zhkwLqxH7V8zTlEjfTf/pub)
-
-<video title="The Muffin man" src="https://github.com/user-attachments/assets/1d5a9119-82cc-40ec-bde3-d91df9781122" controls></video>
-
-
